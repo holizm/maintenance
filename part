@@ -1,0 +1,59 @@
+maintenanceType options
+    preventive
+    corrective
+    predictive
+    inspection
+maintenancePriority options
+    low
+    normal
+    high
+    urgent
+workOrderStatus options
+    draft
+    scheduled
+    inProgress
+    paused
+    completed
+    cancelled
+maintenancePlan
+    title
+    asset
+    maintenanceType
+    intervalDays integer optional
+    nextServiceDate optional
+    instructions optional
+    active yesNo optional
+maintenanceRequest
+    number
+    asset
+    reportedDate
+    maintenancePriority
+    fault
+    requestedBy optional
+    unique number
+workOrder
+    number
+    asset
+    maintenancePlan optional
+    maintenanceRequest optional
+    maintenanceType
+    maintenancePriority
+    workOrderStatus
+    scheduledDate optional
+    startedDate optional
+    completedDate optional
+    technician optional
+    downtimeMinutes integer optional
+    description optional
+    unique number
+maintenanceInspection
+    workOrder
+    inspectionDate
+    inspector
+    passed yesNo
+    findings optional
+maintenanceMaterial
+    workOrder
+    item
+    quantity realNumber
+    cost realNumber optional
