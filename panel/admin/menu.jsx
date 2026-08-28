@@ -15,6 +15,7 @@ export default [
             },
         ],
         icon: 'build',
+        path: '/maintenance',
         title: 'maintenanceMaintenance',
     },
 ]
