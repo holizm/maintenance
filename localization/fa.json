@@ -1,0 +1,29 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "active": "فعال",
+        "asset": "دارایی",
+        "description": "توضیحات",
+        "fault": "خرابی گزارش‌شده",
+        "instructions": "دستورالعمل‌ها",
+        "intervalDays": "فاصله به روز",
+        "maintenance": "نگهداری و تعمیرات",
+        "nextServiceDate": "تاریخ سرویس بعدی",
+        "number": "شماره",
+        "plan": "برنامه نگهداری",
+        "plans": "برنامه‌های نگهداری",
+        "priority": "اولویت",
+        "reportedDate": "تاریخ گزارش",
+        "requests": "درخواست‌های تعمیر",
+        "scheduledDate": "تاریخ برنامه‌ریزی‌شده",
+        "status": "وضعیت",
+        "technician": "تکنسین",
+        "type": "نوع نگهداری",
+        "workOrders": "دستورهای کار"
+    },
+    "site": {
+        "status": "وضعیت تعمیر",
+        "workOrder": "دستور کار"
+    }
+}
