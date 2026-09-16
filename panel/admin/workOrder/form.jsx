@@ -26,7 +26,7 @@ const inputs = <>
             'completed',
             'cancelled',
         ]}
-        placeholder='maintenanceStatus'
+        placeholder='stateMachinesState'
         property='workOrderStatus'
         required
     />
