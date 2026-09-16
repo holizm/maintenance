@@ -1,17 +1,13 @@
 {
     "common": {
-        "active": "Active",
         "asset": "Asset",
-        "description": "Description",
         "fault": "Reported fault",
         "instructions": "Instructions",
         "intervalDays": "Interval in days",
         "maintenance": "Maintenance",
         "nextServiceDate": "Next service date",
-        "number": "Number",
         "plan": "Maintenance plan",
         "plans": "Maintenance plans",
-        "priority": "Priority",
         "reportedDate": "Reported date",
         "requests": "Maintenance requests",
         "scheduledDate": "Scheduled date",
