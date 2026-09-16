@@ -14,7 +14,6 @@
         "status": "Maintenance status",
         "technician": "Technician",
         "type": "Maintenance type",
-        "workOrders": "Work orders",
-        "workOrder": "Work order"
+        "workOrders": "Work orders"
     }
 }

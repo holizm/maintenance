@@ -14,7 +14,6 @@
         "status": "وضعیت تعمیر",
         "technician": "تکنسین",
         "type": "نوع نگهداری",
-        "workOrders": "دستورهای کار",
-        "workOrder": "دستور کار"
+        "workOrders": "دستورهای کار"
     }
 }
