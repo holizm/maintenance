@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Eiendel",
+        "fault": "Rapportert feil",
+        "instructions": "Instruksjoner",
+        "intervalDays": "Intervall i dager",
+        "maintenance": "Vedlikehold",
+        "nextServiceDate": "Neste servicedato",
+        "plan": "Vedlikeholdsplan",
+        "plans": "Vedlikeholdsplaner",
+        "reportedDate": "Rapporteringsdato",
+        "requests": "Vedlikeholdsforespørsler",
+        "scheduledDate": "Planlagt dato",
+        "technician": "Tekniker",
+        "type": "Vedlikeholdstype",
+        "workOrders": "Arbeidsordrer"
+    }
+}

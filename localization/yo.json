@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Ohun-ìní",
+        "fault": "Àṣìṣe tí a jábọ̀",
+        "instructions": "Àwọn ìtọ́sọ́nà",
+        "intervalDays": "Àárín ní ọjọ́",
+        "maintenance": "Ìtọju",
+        "nextServiceDate": "Ọjọ́ iṣẹ́ àtúnṣe tó kàn",
+        "plan": "Ètò ìtọju",
+        "plans": "Àwọn ètò ìtọju",
+        "reportedDate": "Ọjọ́ ìjábọ̀",
+        "requests": "Àwọn ìbéèrè ìtọju",
+        "scheduledDate": "Ọjọ́ tí a ṣètò",
+        "technician": "Onímọ̀ ẹ̀rọ",
+        "type": "Irú ìtọju",
+        "workOrders": "Àwọn àṣẹ iṣẹ́"
+    }
+}

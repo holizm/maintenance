@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "मालमत्ता",
+        "fault": "नोंदवलेला बिघाड",
+        "instructions": "सूचना",
+        "intervalDays": "दिवसांमधील अंतर",
+        "maintenance": "देखभाल",
+        "nextServiceDate": "पुढील सर्व्हिसची तारीख",
+        "plan": "देखभाल योजना",
+        "plans": "देखभाल योजना",
+        "reportedDate": "नोंदवण्याची तारीख",
+        "requests": "देखभाल विनंत्या",
+        "scheduledDate": "नियोजित तारीख",
+        "technician": "तंत्रज्ञ",
+        "type": "देखभालीचा प्रकार",
+        "workOrders": "कामाचे आदेश"
+    }
+}

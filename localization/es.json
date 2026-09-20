@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Activo",
+        "fault": "Fallo notificado",
+        "instructions": "Instrucciones",
+        "intervalDays": "Intervalo en días",
+        "maintenance": "Mantenimiento",
+        "nextServiceDate": "Próxima fecha de servicio",
+        "plan": "Plan de mantenimiento",
+        "plans": "Planes de mantenimiento",
+        "reportedDate": "Fecha de notificación",
+        "requests": "Solicitudes de mantenimiento",
+        "scheduledDate": "Fecha programada",
+        "technician": "Técnico",
+        "type": "Tipo de mantenimiento",
+        "workOrders": "Órdenes de trabajo"
+    }
+}

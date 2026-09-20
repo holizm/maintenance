@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Kadara",
+        "fault": "Lalurar da aka ruwaito",
+        "instructions": "Umarni",
+        "intervalDays": "Tazara a kwanaki",
+        "maintenance": "Kulawa",
+        "nextServiceDate": "Ranar gyara ta gaba",
+        "plan": "Tsarin kulawa",
+        "plans": "Tsare-tsaren kulawa",
+        "reportedDate": "Ranar rahoto",
+        "requests": "Buƙatun kulawa",
+        "scheduledDate": "Ranar da aka tsara",
+        "technician": "Mai fasaha",
+        "type": "Nau'in kulawa",
+        "workOrders": "Umarni na aiki"
+    }
+}

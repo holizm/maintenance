@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Activ",
+        "fault": "Defecțiune raportată",
+        "instructions": "Instrucțiuni",
+        "intervalDays": "Interval în zile",
+        "maintenance": "Mentenanță",
+        "nextServiceDate": "Data următoarei revizii",
+        "plan": "Plan de mentenanță",
+        "plans": "Planuri de mentenanță",
+        "reportedDate": "Data raportării",
+        "requests": "Solicitări de mentenanță",
+        "scheduledDate": "Data programată",
+        "technician": "Tehnician",
+        "type": "Tip de mentenanță",
+        "workOrders": "Ordine de lucru"
+    }
+}

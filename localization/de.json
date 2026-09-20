@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Anlage",
+        "fault": "Gemeldete Störung",
+        "instructions": "Anweisungen",
+        "intervalDays": "Intervall in Tagen",
+        "maintenance": "Instandhaltung",
+        "nextServiceDate": "Nächster Wartungstermin",
+        "plan": "Wartungsplan",
+        "plans": "Wartungspläne",
+        "reportedDate": "Meldedatum",
+        "requests": "Wartungsanfragen",
+        "scheduledDate": "Geplanter Termin",
+        "technician": "Techniker",
+        "type": "Wartungsart",
+        "workOrders": "Arbeitsaufträge"
+    }
+}

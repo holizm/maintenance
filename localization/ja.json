@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "資産",
+        "fault": "報告された故障",
+        "instructions": "作業指示",
+        "intervalDays": "間隔（日数）",
+        "maintenance": "保守",
+        "nextServiceDate": "次回保守日",
+        "plan": "保守計画",
+        "plans": "保守計画",
+        "reportedDate": "報告日",
+        "requests": "保守依頼",
+        "scheduledDate": "予定日",
+        "technician": "技術者",
+        "type": "保守の種類",
+        "workOrders": "作業指示書"
+    }
+}

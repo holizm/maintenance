@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Składnik majątku",
+        "fault": "Zgłoszona usterka",
+        "instructions": "Instrukcje",
+        "intervalDays": "Odstęp w dniach",
+        "maintenance": "Utrzymanie techniczne",
+        "nextServiceDate": "Data następnego serwisu",
+        "plan": "Plan utrzymania",
+        "plans": "Plany utrzymania",
+        "reportedDate": "Data zgłoszenia",
+        "requests": "Zgłoszenia serwisowe",
+        "scheduledDate": "Zaplanowana data",
+        "technician": "Technik",
+        "type": "Rodzaj utrzymania",
+        "workOrders": "Zlecenia pracy"
+    }
+}

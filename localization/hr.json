@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Imovina",
+        "fault": "Prijavljeni kvar",
+        "instructions": "Upute",
+        "intervalDays": "Interval u danima",
+        "maintenance": "Održavanje",
+        "nextServiceDate": "Datum sljedećeg servisa",
+        "plan": "Plan održavanja",
+        "plans": "Planovi održavanja",
+        "reportedDate": "Datum prijave",
+        "requests": "Zahtjevi za održavanje",
+        "scheduledDate": "Zakazani datum",
+        "technician": "Tehničar",
+        "type": "Vrsta održavanja",
+        "workOrders": "Radni nalozi"
+    }
+}

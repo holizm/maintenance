@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Asset",
+        "fault": "Iniulat na sira",
+        "instructions": "Mga tagubilin",
+        "intervalDays": "Agwat sa mga araw",
+        "maintenance": "Pagpapanatili",
+        "nextServiceDate": "Petsa ng susunod na serbisyo",
+        "plan": "Plano ng pagpapanatili",
+        "plans": "Mga plano ng pagpapanatili",
+        "reportedDate": "Petsa ng pag-uulat",
+        "requests": "Mga kahilingan sa pagpapanatili",
+        "scheduledDate": "Nakatakdang petsa",
+        "technician": "Teknisyan",
+        "type": "Uri ng pagpapanatili",
+        "workOrders": "Mga utos sa trabaho"
+    }
+}

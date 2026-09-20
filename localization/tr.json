@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Varlık",
+        "fault": "Bildirilen arıza",
+        "instructions": "Talimatlar",
+        "intervalDays": "Gün cinsinden aralık",
+        "maintenance": "Bakım",
+        "nextServiceDate": "Sonraki servis tarihi",
+        "plan": "Bakım planı",
+        "plans": "Bakım planları",
+        "reportedDate": "Bildirim tarihi",
+        "requests": "Bakım talepleri",
+        "scheduledDate": "Planlanan tarih",
+        "technician": "Teknisyen",
+        "type": "Bakım türü",
+        "workOrders": "İş emirleri"
+    }
+}

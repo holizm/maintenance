@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "ಆಸ್ತಿ",
+        "fault": "ವರದಿ ಮಾಡಿದ ದೋಷ",
+        "instructions": "ಸೂಚನೆಗಳು",
+        "intervalDays": "ದಿನಗಳ ಅಂತರ",
+        "maintenance": "ನಿರ್ವಹಣೆ",
+        "nextServiceDate": "ಮುಂದಿನ ಸೇವೆಯ ದಿನಾಂಕ",
+        "plan": "ನಿರ್ವಹಣಾ ಯೋಜನೆ",
+        "plans": "ನಿರ್ವಹಣಾ ಯೋಜನೆಗಳು",
+        "reportedDate": "ವರದಿ ಮಾಡಿದ ದಿನಾಂಕ",
+        "requests": "ನಿರ್ವಹಣಾ ವಿನಂತಿಗಳು",
+        "scheduledDate": "ನಿಗದಿತ ದಿನಾಂಕ",
+        "technician": "ತಂತ್ರಜ್ಞ",
+        "type": "ನಿರ್ವಹಣೆಯ ವಿಧ",
+        "workOrders": "ಕೆಲಸದ ಆದೇಶಗಳು"
+    }
+}

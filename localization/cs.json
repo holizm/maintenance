@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Majetek",
+        "fault": "Nahlášená závada",
+        "instructions": "Pokyny",
+        "intervalDays": "Interval ve dnech",
+        "maintenance": "Údržba",
+        "nextServiceDate": "Datum příštího servisu",
+        "plan": "Plán údržby",
+        "plans": "Plány údržby",
+        "reportedDate": "Datum nahlášení",
+        "requests": "Požadavky na údržbu",
+        "scheduledDate": "Plánované datum",
+        "technician": "Technik",
+        "type": "Typ údržby",
+        "workOrders": "Pracovní příkazy"
+    }
+}

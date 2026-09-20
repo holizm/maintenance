@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Bene",
+        "fault": "Guasto segnalato",
+        "instructions": "Istruzioni",
+        "intervalDays": "Intervallo in giorni",
+        "maintenance": "Manutenzione",
+        "nextServiceDate": "Data del prossimo intervento",
+        "plan": "Piano di manutenzione",
+        "plans": "Piani di manutenzione",
+        "reportedDate": "Data della segnalazione",
+        "requests": "Richieste di manutenzione",
+        "scheduledDate": "Data programmata",
+        "technician": "Tecnico",
+        "type": "Tipo di manutenzione",
+        "workOrders": "Ordini di lavoro"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "اثاثہ",
+        "fault": "رپورٹ کردہ خرابی",
+        "instructions": "ہدایات",
+        "intervalDays": "دنوں میں وقفہ",
+        "maintenance": "دیکھ بھال",
+        "nextServiceDate": "اگلی سروس کی تاریخ",
+        "plan": "دیکھ بھال کا منصوبہ",
+        "plans": "دیکھ بھال کے منصوبے",
+        "reportedDate": "رپورٹ کی تاریخ",
+        "requests": "دیکھ بھال کی درخواستیں",
+        "scheduledDate": "طے شدہ تاریخ",
+        "technician": "ٹیکنیشن",
+        "type": "دیکھ بھال کی قسم",
+        "workOrders": "کام کے احکامات"
+    }
+}

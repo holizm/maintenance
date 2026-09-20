@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "נכס",
+        "fault": "תקלה שדווחה",
+        "instructions": "הוראות",
+        "intervalDays": "מרווח בימים",
+        "maintenance": "תחזוקה",
+        "nextServiceDate": "תאריך הטיפול הבא",
+        "plan": "תוכנית תחזוקה",
+        "plans": "תוכניות תחזוקה",
+        "reportedDate": "תאריך הדיווח",
+        "requests": "בקשות תחזוקה",
+        "scheduledDate": "תאריך מתוכנן",
+        "technician": "טכנאי",
+        "type": "סוג תחזוקה",
+        "workOrders": "הוראות עבודה"
+    }
+}

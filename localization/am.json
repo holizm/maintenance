@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "ንብረት",
+        "fault": "ሪፖርት የተደረገ ብልሽት",
+        "instructions": "መመሪያዎች",
+        "intervalDays": "የቀናት ልዩነት",
+        "maintenance": "ጥገና",
+        "nextServiceDate": "የሚቀጥለው የጥገና ቀን",
+        "plan": "የጥገና ዕቅድ",
+        "plans": "የጥገና ዕቅዶች",
+        "reportedDate": "ሪፖርት የተደረገበት ቀን",
+        "requests": "የጥገና ጥያቄዎች",
+        "scheduledDate": "የታቀደ ቀን",
+        "technician": "ቴክኒሻን",
+        "type": "የጥገና ዓይነት",
+        "workOrders": "የሥራ ትዕዛዞች"
+    }
+}

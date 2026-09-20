@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Tài sản",
+        "fault": "Sự cố đã báo cáo",
+        "instructions": "Hướng dẫn",
+        "intervalDays": "Khoảng cách theo ngày",
+        "maintenance": "Bảo trì",
+        "nextServiceDate": "Ngày bảo dưỡng tiếp theo",
+        "plan": "Kế hoạch bảo trì",
+        "plans": "Các kế hoạch bảo trì",
+        "reportedDate": "Ngày báo cáo",
+        "requests": "Yêu cầu bảo trì",
+        "scheduledDate": "Ngày dự kiến",
+        "technician": "Kỹ thuật viên",
+        "type": "Loại bảo trì",
+        "workOrders": "Lệnh công việc"
+    }
+}

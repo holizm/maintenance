@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Tillgång",
+        "fault": "Rapporterat fel",
+        "instructions": "Instruktioner",
+        "intervalDays": "Intervall i dagar",
+        "maintenance": "Underhåll",
+        "nextServiceDate": "Nästa servicedatum",
+        "plan": "Underhållsplan",
+        "plans": "Underhållsplaner",
+        "reportedDate": "Rapporteringsdatum",
+        "requests": "Underhållsbegäranden",
+        "scheduledDate": "Schemalagt datum",
+        "technician": "Tekniker",
+        "type": "Underhållstyp",
+        "workOrders": "Arbetsorder"
+    }
+}

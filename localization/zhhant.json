@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "資產",
+        "fault": "回報的故障",
+        "instructions": "說明",
+        "intervalDays": "間隔天數",
+        "maintenance": "維護",
+        "nextServiceDate": "下次保養日期",
+        "plan": "維護計畫",
+        "plans": "維護計畫",
+        "reportedDate": "回報日期",
+        "requests": "維護請求",
+        "scheduledDate": "排定日期",
+        "technician": "技術人員",
+        "type": "維護類型",
+        "workOrders": "工單"
+    }
+}

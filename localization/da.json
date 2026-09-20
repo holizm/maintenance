@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Aktiv",
+        "fault": "Rapporteret fejl",
+        "instructions": "Instruktioner",
+        "intervalDays": "Interval i dage",
+        "maintenance": "Vedligeholdelse",
+        "nextServiceDate": "Næste servicedato",
+        "plan": "Vedligeholdelsesplan",
+        "plans": "Vedligeholdelsesplaner",
+        "reportedDate": "Rapporteringsdato",
+        "requests": "Vedligeholdelsesanmodninger",
+        "scheduledDate": "Planlagt dato",
+        "technician": "Tekniker",
+        "type": "Vedligeholdelsestype",
+        "workOrders": "Arbejdsordrer"
+    }
+}

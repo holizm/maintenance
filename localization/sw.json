@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Mali",
+        "fault": "Hitilafu iliyoripotiwa",
+        "instructions": "Maelekezo",
+        "intervalDays": "Muda kwa siku",
+        "maintenance": "Matengenezo",
+        "nextServiceDate": "Tarehe ya huduma inayofuata",
+        "plan": "Mpango wa matengenezo",
+        "plans": "Mipango ya matengenezo",
+        "reportedDate": "Tarehe ya kuripoti",
+        "requests": "Maombi ya matengenezo",
+        "scheduledDate": "Tarehe iliyopangwa",
+        "technician": "Fundi",
+        "type": "Aina ya matengenezo",
+        "workOrders": "Maagizo ya kazi"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Actif",
+        "fault": "Panne signalée",
+        "instructions": "Instructions",
+        "intervalDays": "Intervalle en jours",
+        "maintenance": "Maintenance",
+        "nextServiceDate": "Date du prochain entretien",
+        "plan": "Plan de maintenance",
+        "plans": "Plans de maintenance",
+        "reportedDate": "Date du signalement",
+        "requests": "Demandes de maintenance",
+        "scheduledDate": "Date planifiée",
+        "technician": "Technicien",
+        "type": "Type de maintenance",
+        "workOrders": "Ordres de travail"
+    }
+}

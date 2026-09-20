@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Aset",
+        "fault": "Kerusakan yang dilaporkan",
+        "instructions": "Petunjuk",
+        "intervalDays": "Interval dalam hari",
+        "maintenance": "Pemeliharaan",
+        "nextServiceDate": "Tanggal servis berikutnya",
+        "plan": "Rencana pemeliharaan",
+        "plans": "Rencana pemeliharaan",
+        "reportedDate": "Tanggal pelaporan",
+        "requests": "Permintaan pemeliharaan",
+        "scheduledDate": "Tanggal terjadwal",
+        "technician": "Teknisi",
+        "type": "Jenis pemeliharaan",
+        "workOrders": "Perintah kerja"
+    }
+}

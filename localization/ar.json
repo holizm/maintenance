@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "أصل",
+        "fault": "العطل المبلغ عنه",
+        "instructions": "التعليمات",
+        "intervalDays": "الفاصل بالأيام",
+        "maintenance": "الصيانة",
+        "nextServiceDate": "تاريخ الصيانة التالية",
+        "plan": "خطة الصيانة",
+        "plans": "خطط الصيانة",
+        "reportedDate": "تاريخ الإبلاغ",
+        "requests": "طلبات الصيانة",
+        "scheduledDate": "التاريخ المجدول",
+        "technician": "الفني",
+        "type": "نوع الصيانة",
+        "workOrders": "أوامر العمل"
+    }
+}

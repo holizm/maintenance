@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Eszköz",
+        "fault": "Bejelentett hiba",
+        "instructions": "Utasítások",
+        "intervalDays": "Időköz napokban",
+        "maintenance": "Karbantartás",
+        "nextServiceDate": "Következő szerviz dátuma",
+        "plan": "Karbantartási terv",
+        "plans": "Karbantartási tervek",
+        "reportedDate": "Bejelentés dátuma",
+        "requests": "Karbantartási kérelmek",
+        "scheduledDate": "Ütemezett dátum",
+        "technician": "Technikus",
+        "type": "Karbantartás típusa",
+        "workOrders": "Munkalapok"
+    }
+}

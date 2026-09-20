@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Ativo",
+        "fault": "Avaria comunicada",
+        "instructions": "Instruções",
+        "intervalDays": "Intervalo em dias",
+        "maintenance": "Manutenção",
+        "nextServiceDate": "Próxima data de manutenção",
+        "plan": "Plano de manutenção",
+        "plans": "Planos de manutenção",
+        "reportedDate": "Data da comunicação",
+        "requests": "Pedidos de manutenção",
+        "scheduledDate": "Data agendada",
+        "technician": "Técnico",
+        "type": "Tipo de manutenção",
+        "workOrders": "Ordens de trabalho"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Bedrijfsmiddel",
+        "fault": "Gemelde storing",
+        "instructions": "Instructies",
+        "intervalDays": "Interval in dagen",
+        "maintenance": "Onderhoud",
+        "nextServiceDate": "Volgende onderhoudsdatum",
+        "plan": "Onderhoudsplan",
+        "plans": "Onderhoudsplannen",
+        "reportedDate": "Meldingsdatum",
+        "requests": "Onderhoudsverzoeken",
+        "scheduledDate": "Geplande datum",
+        "technician": "Monteur",
+        "type": "Onderhoudstype",
+        "workOrders": "Werkorders"
+    }
+}

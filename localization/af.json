@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "Bate",
+        "fault": "Aangemelde fout",
+        "instructions": "Instruksies",
+        "intervalDays": "Tussenpose in dae",
+        "maintenance": "Instandhouding",
+        "nextServiceDate": "Volgende diensdatum",
+        "plan": "Instandhoudingsplan",
+        "plans": "Instandhoudingsplanne",
+        "reportedDate": "Aanmelddatum",
+        "requests": "Instandhoudingsversoeke",
+        "scheduledDate": "Geskeduleerde datum",
+        "technician": "Tegnikus",
+        "type": "Instandhoudingstipe",
+        "workOrders": "Werkopdragte"
+    }
+}

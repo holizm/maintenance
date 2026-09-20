@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "ਸੰਪਤੀ",
+        "fault": "ਰਿਪੋਰਟ ਕੀਤੀ ਖਰਾਬੀ",
+        "instructions": "ਹਦਾਇਤਾਂ",
+        "intervalDays": "ਦਿਨਾਂ ਵਿੱਚ ਅੰਤਰਾਲ",
+        "maintenance": "ਰੱਖ-ਰਖਾਅ",
+        "nextServiceDate": "ਅਗਲੀ ਸਰਵਿਸ ਦੀ ਮਿਤੀ",
+        "plan": "ਰੱਖ-ਰਖਾਅ ਯੋਜਨਾ",
+        "plans": "ਰੱਖ-ਰਖਾਅ ਯੋਜਨਾਵਾਂ",
+        "reportedDate": "ਰਿਪੋਰਟ ਦੀ ਮਿਤੀ",
+        "requests": "ਰੱਖ-ਰਖਾਅ ਬੇਨਤੀਆਂ",
+        "scheduledDate": "ਨਿਰਧਾਰਤ ਮਿਤੀ",
+        "technician": "ਤਕਨੀਸ਼ੀਅਨ",
+        "type": "ਰੱਖ-ਰਖਾਅ ਦੀ ਕਿਸਮ",
+        "workOrders": "ਕੰਮ ਦੇ ਆਦੇਸ਼"
+    }
+}

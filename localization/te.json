@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "ఆస్తి",
+        "fault": "నివేదించిన లోపం",
+        "instructions": "సూచనలు",
+        "intervalDays": "రోజుల్లో విరామం",
+        "maintenance": "నిర్వహణ",
+        "nextServiceDate": "తదుపరి సర్వీస్ తేదీ",
+        "plan": "నిర్వహణ ప్రణాళిక",
+        "plans": "నిర్వహణ ప్రణాళికలు",
+        "reportedDate": "నివేదించిన తేదీ",
+        "requests": "నిర్వహణ అభ్యర్థనలు",
+        "scheduledDate": "షెడ్యూల్ చేసిన తేదీ",
+        "technician": "సాంకేతిక నిపుణుడు",
+        "type": "నిర్వహణ రకం",
+        "workOrders": "పని ఆదేశాలు"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "자산",
+        "fault": "보고된 고장",
+        "instructions": "작업 지침",
+        "intervalDays": "간격(일)",
+        "maintenance": "유지보수",
+        "nextServiceDate": "다음 정비일",
+        "plan": "유지보수 계획",
+        "plans": "유지보수 계획",
+        "reportedDate": "보고일",
+        "requests": "유지보수 요청",
+        "scheduledDate": "예정일",
+        "technician": "기술자",
+        "type": "유지보수 유형",
+        "workOrders": "작업 지시서"
+    }
+}

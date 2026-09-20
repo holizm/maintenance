@@ -1,0 +1,18 @@
+{
+    "common": {
+        "asset": "મિલકત",
+        "fault": "નોંધાયેલ ખામી",
+        "instructions": "સૂચનાઓ",
+        "intervalDays": "દિવસોમાં અંતરાલ",
+        "maintenance": "જાળવણી",
+        "nextServiceDate": "આગામી સર્વિસ તારીખ",
+        "plan": "જાળવણી યોજના",
+        "plans": "જાળવણી યોજનાઓ",
+        "reportedDate": "નોંધાયાની તારીખ",
+        "requests": "જાળવણી વિનંતીઓ",
+        "scheduledDate": "નિર્ધારિત તારીખ",
+        "technician": "ટેક્નિશિયન",
+        "type": "જાળવણીનો પ્રકાર",
+        "workOrders": "કાર્ય આદેશો"
+    }
+}
