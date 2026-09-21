@@ -7,7 +7,7 @@ import Form from './form'
 
 const headers = <>
     <th start>maintenanceNumber</th>
-    <th>maintenanceAsset</th>
+    <th>coreAsset</th>
     <th>maintenanceReportedDate</th>
     <th>maintenancePriority</th>
 </>

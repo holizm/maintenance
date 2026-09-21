@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "資産",
         "fault": "報告された故障",
         "instructions": "作業指示",
         "intervalDays": "間隔（日数）",

@@ -12,7 +12,7 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='maintenanceAsset'
+        placeholder='coreAsset'
         property='asset'
         required
     />

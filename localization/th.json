@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "สินทรัพย์",
         "fault": "ข้อขัดข้องที่รายงาน",
         "instructions": "คำแนะนำ",
         "intervalDays": "ช่วงห่างเป็นวัน",

@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "자산",
         "fault": "보고된 고장",
         "instructions": "작업 지침",
         "intervalDays": "간격(일)",

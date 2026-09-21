@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "সম্পদ",
         "fault": "প্রতিবেদিত ত্রুটি",
         "instructions": "নির্দেশাবলি",
         "intervalDays": "দিনের ব্যবধান",

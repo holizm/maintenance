@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Majetek",
         "fault": "Nahlášená závada",
         "instructions": "Pokyny",
         "intervalDays": "Interval ve dnech",

@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "أصل",
         "fault": "العطل المبلغ عنه",
         "instructions": "التعليمات",
         "intervalDays": "الفاصل بالأيام",

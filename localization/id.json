@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Aset",
         "fault": "Kerusakan yang dilaporkan",
         "instructions": "Petunjuk",
         "intervalDays": "Interval dalam hari",

@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Bene",
         "fault": "Guasto segnalato",
         "instructions": "Istruzioni",
         "intervalDays": "Intervallo in giorni",

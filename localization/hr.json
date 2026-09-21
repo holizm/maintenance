@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Imovina",
         "fault": "Prijavljeni kvar",
         "instructions": "Upute",
         "intervalDays": "Interval u danima",

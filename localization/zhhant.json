@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "資產",
         "fault": "回報的故障",
         "instructions": "說明",
         "intervalDays": "間隔天數",

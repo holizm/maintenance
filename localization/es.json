@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Activo",
         "fault": "Fallo notificado",
         "instructions": "Instrucciones",
         "intervalDays": "Intervalo en días",

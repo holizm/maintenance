@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Activ",
         "fault": "Defecțiune raportată",
         "instructions": "Instrucțiuni",
         "intervalDays": "Interval în zile",

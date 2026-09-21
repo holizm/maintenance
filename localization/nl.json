@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Bedrijfsmiddel",
         "fault": "Gemelde storing",
         "instructions": "Instructies",
         "intervalDays": "Interval in dagen",

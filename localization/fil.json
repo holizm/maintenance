@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Asset",
         "fault": "Iniulat na sira",
         "instructions": "Mga tagubilin",
         "intervalDays": "Agwat sa mga araw",

@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Eszköz",
         "fault": "Bejelentett hiba",
         "instructions": "Utasítások",
         "intervalDays": "Időköz napokban",

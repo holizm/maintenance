@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Anlage",
         "fault": "Gemeldete Störung",
         "instructions": "Anweisungen",
         "intervalDays": "Intervall in Tagen",

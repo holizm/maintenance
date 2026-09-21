@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Varlık",
         "fault": "Bildirilen arıza",
         "instructions": "Talimatlar",
         "intervalDays": "Gün cinsinden aralık",

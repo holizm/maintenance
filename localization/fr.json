@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Actif",
         "fault": "Panne signalée",
         "instructions": "Instructions",
         "intervalDays": "Intervalle en jours",

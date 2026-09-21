@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Käyttöomaisuus",
         "fault": "Ilmoitettu vika",
         "instructions": "Ohjeet",
         "intervalDays": "Väli päivinä",

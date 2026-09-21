@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Składnik majątku",
         "fault": "Zgłoszona usterka",
         "instructions": "Instrukcje",
         "intervalDays": "Odstęp w dniach",

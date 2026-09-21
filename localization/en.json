@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Asset",
         "fault": "Reported fault",
         "instructions": "Instructions",
         "intervalDays": "Interval in days",

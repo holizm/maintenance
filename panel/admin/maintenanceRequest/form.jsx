@@ -13,7 +13,7 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='maintenanceAsset'
+        placeholder='coreAsset'
         property='asset'
         required
     />

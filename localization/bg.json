@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Актив",
         "fault": "Докладвана повреда",
         "instructions": "Инструкции",
         "intervalDays": "Интервал в дни",

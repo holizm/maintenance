@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Aktiv",
         "fault": "Rapporteret fejl",
         "instructions": "Instruktioner",
         "intervalDays": "Interval i dage",

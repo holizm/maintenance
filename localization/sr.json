@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Имовина",
         "fault": "Пријављени квар",
         "instructions": "Упутства",
         "intervalDays": "Интервал у данима",

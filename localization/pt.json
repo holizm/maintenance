@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "Ativo",
         "fault": "Avaria comunicada",
         "instructions": "Instruções",
         "intervalDays": "Intervalo em dias",
