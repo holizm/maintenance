@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Nahlášená závada",
+        "inspection": "Kontrola údržby",
+        "inspections": "Kontroly údržby",
         "instructions": "Pokyny",
         "intervalDays": "Interval ve dnech",
         "maintenance": "Údržba",
+        "material": "Materiál údržby",
+        "materials": "Materiály údržby",
         "nextServiceDate": "Datum příštího servisu",
         "plan": "Plán údržby",
         "plans": "Plány údržby",
         "reportedDate": "Datum nahlášení",
+        "request": "Požadavek na údržbu",
         "requests": "Požadavky na údržbu",
         "scheduledDate": "Plánované datum",
         "technician": "Technik",
         "type": "Typ údržby",
+        "workOrder": "Pracovní příkaz",
         "workOrders": "Pracovní příkazy"
     }
 }

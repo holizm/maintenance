@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "ವರದಿ ಮಾಡಿದ ದೋಷ",
+        "inspection": "ನಿರ್ವಹಣೆ ತಪಾಸಣೆ",
+        "inspections": "ನಿರ್ವಹಣೆ ತಪಾಸಣೆಗಳು",
         "instructions": "ಸೂಚನೆಗಳು",
         "intervalDays": "ದಿನಗಳ ಅಂತರ",
         "maintenance": "ನಿರ್ವಹಣೆ",
+        "material": "ನಿರ್ವಹಣೆ ಸಾಮಗ್ರಿ",
+        "materials": "ನಿರ್ವಹಣೆ ಸಾಮಗ್ರಿಗಳು",
         "nextServiceDate": "ಮುಂದಿನ ಸೇವೆಯ ದಿನಾಂಕ",
         "plan": "ನಿರ್ವಹಣಾ ಯೋಜನೆ",
         "plans": "ನಿರ್ವಹಣಾ ಯೋಜನೆಗಳು",
         "reportedDate": "ವರದಿ ಮಾಡಿದ ದಿನಾಂಕ",
+        "request": "ನಿರ್ವಹಣೆ ವಿನಂತಿ",
         "requests": "ನಿರ್ವಹಣಾ ವಿನಂತಿಗಳು",
         "scheduledDate": "ನಿಗದಿತ ದಿನಾಂಕ",
         "technician": "ತಂತ್ರಜ್ಞ",
         "type": "ನಿರ್ವಹಣೆಯ ವಿಧ",
+        "workOrder": "ಕೆಲಸದ ಆದೇಶ",
         "workOrders": "ಕೆಲಸದ ಆದೇಶಗಳು"
     }
 }

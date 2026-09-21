@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Defecțiune raportată",
+        "inspection": "Inspecție de întreținere",
+        "inspections": "Inspecții de întreținere",
         "instructions": "Instrucțiuni",
         "intervalDays": "Interval în zile",
         "maintenance": "Mentenanță",
+        "material": "Material de întreținere",
+        "materials": "Materiale de întreținere",
         "nextServiceDate": "Data următoarei revizii",
         "plan": "Plan de mentenanță",
         "plans": "Planuri de mentenanță",
         "reportedDate": "Data raportării",
+        "request": "Solicitare de întreținere",
         "requests": "Solicitări de mentenanță",
         "scheduledDate": "Data programată",
         "technician": "Tehnician",
         "type": "Tip de mentenanță",
+        "workOrder": "Ordin de lucru",
         "workOrders": "Ordine de lucru"
     }
 }

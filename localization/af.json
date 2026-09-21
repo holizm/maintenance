@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Aangemelde fout",
+        "inspection": "Onderhoudsinspeksie",
+        "inspections": "Onderhoudsinspeksies",
         "instructions": "Instruksies",
         "intervalDays": "Tussenpose in dae",
         "maintenance": "Instandhouding",
+        "material": "Onderhoudsmateriaal",
+        "materials": "Onderhoudsmateriale",
         "nextServiceDate": "Volgende diensdatum",
         "plan": "Instandhoudingsplan",
         "plans": "Instandhoudingsplanne",
         "reportedDate": "Aanmelddatum",
+        "request": "Onderhoudsversoek",
         "requests": "Instandhoudingsversoeke",
         "scheduledDate": "Geskeduleerde datum",
         "technician": "Tegnikus",
         "type": "Instandhoudingstipe",
+        "workOrder": "Werkorder",
         "workOrders": "Werkopdragte"
     }
 }

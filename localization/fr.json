@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Panne signalée",
+        "inspection": "Inspection de maintenance",
+        "inspections": "Inspections de maintenance",
         "instructions": "Instructions",
         "intervalDays": "Intervalle en jours",
         "maintenance": "Maintenance",
+        "material": "Matériel de maintenance",
+        "materials": "Matériels de maintenance",
         "nextServiceDate": "Date du prochain entretien",
         "plan": "Plan de maintenance",
         "plans": "Plans de maintenance",
         "reportedDate": "Date du signalement",
+        "request": "Demande de maintenance",
         "requests": "Demandes de maintenance",
         "scheduledDate": "Date planifiée",
         "technician": "Technicien",
         "type": "Type de maintenance",
+        "workOrder": "Ordre de travail",
         "workOrders": "Ordres de travail"
     }
 }

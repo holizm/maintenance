@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Fallo notificado",
+        "inspection": "Inspección de mantenimiento",
+        "inspections": "Inspecciones de mantenimiento",
         "instructions": "Instrucciones",
         "intervalDays": "Intervalo en días",
         "maintenance": "Mantenimiento",
+        "material": "Material de mantenimiento",
+        "materials": "Materiales de mantenimiento",
         "nextServiceDate": "Próxima fecha de servicio",
         "plan": "Plan de mantenimiento",
         "plans": "Planes de mantenimiento",
         "reportedDate": "Fecha de notificación",
+        "request": "Solicitud de mantenimiento",
         "requests": "Solicitudes de mantenimiento",
         "scheduledDate": "Fecha programada",
         "technician": "Técnico",
         "type": "Tipo de mantenimiento",
+        "workOrder": "Orden de trabajo",
         "workOrders": "Órdenes de trabajo"
     }
 }

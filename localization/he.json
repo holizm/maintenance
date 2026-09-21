@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "תקלה שדווחה",
+        "inspection": "בדיקת תחזוקה",
+        "inspections": "בדיקות תחזוקה",
         "instructions": "הוראות",
         "intervalDays": "מרווח בימים",
         "maintenance": "תחזוקה",
+        "material": "חומר תחזוקה",
+        "materials": "חומרי תחזוקה",
         "nextServiceDate": "תאריך הטיפול הבא",
         "plan": "תוכנית תחזוקה",
         "plans": "תוכניות תחזוקה",
         "reportedDate": "תאריך הדיווח",
+        "request": "בקשת תחזוקה",
         "requests": "בקשות תחזוקה",
         "scheduledDate": "תאריך מתוכנן",
         "technician": "טכנאי",
         "type": "סוג תחזוקה",
+        "workOrder": "הוראת עבודה",
         "workOrders": "הוראות עבודה"
     }
 }

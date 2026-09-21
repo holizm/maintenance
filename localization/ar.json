@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "العطل المبلغ عنه",
+        "inspection": "فحص صيانة",
+        "inspections": "فحوصات الصيانة",
         "instructions": "التعليمات",
         "intervalDays": "الفاصل بالأيام",
         "maintenance": "الصيانة",
+        "material": "مادة صيانة",
+        "materials": "مواد الصيانة",
         "nextServiceDate": "تاريخ الصيانة التالية",
         "plan": "خطة الصيانة",
         "plans": "خطط الصيانة",
         "reportedDate": "تاريخ الإبلاغ",
+        "request": "طلب صيانة",
         "requests": "طلبات الصيانة",
         "scheduledDate": "التاريخ المجدول",
         "technician": "الفني",
         "type": "نوع الصيانة",
+        "workOrder": "أمر عمل",
         "workOrders": "أوامر العمل"
     }
 }

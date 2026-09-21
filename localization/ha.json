@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Lalurar da aka ruwaito",
+        "inspection": "Binciken kulawa",
+        "inspections": "Binciken kulawa",
         "instructions": "Umarni",
         "intervalDays": "Tazara a kwanaki",
         "maintenance": "Kulawa",
+        "material": "Kayan kulawa",
+        "materials": "Kayayyakin kulawa",
         "nextServiceDate": "Ranar gyara ta gaba",
         "plan": "Tsarin kulawa",
         "plans": "Tsare-tsaren kulawa",
         "reportedDate": "Ranar rahoto",
+        "request": "Buƙatar kulawa",
         "requests": "Buƙatun kulawa",
         "scheduledDate": "Ranar da aka tsara",
         "technician": "Mai fasaha",
         "type": "Nau'in kulawa",
+        "workOrder": "Umarnin aiki",
         "workOrders": "Umarni na aiki"
     }
 }

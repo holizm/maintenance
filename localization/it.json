@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Guasto segnalato",
+        "inspection": "Ispezione di manutenzione",
+        "inspections": "Ispezioni di manutenzione",
         "instructions": "Istruzioni",
         "intervalDays": "Intervallo in giorni",
         "maintenance": "Manutenzione",
+        "material": "Materiale di manutenzione",
+        "materials": "Materiali di manutenzione",
         "nextServiceDate": "Data del prossimo intervento",
         "plan": "Piano di manutenzione",
         "plans": "Piani di manutenzione",
         "reportedDate": "Data della segnalazione",
+        "request": "Richiesta di manutenzione",
         "requests": "Richieste di manutenzione",
         "scheduledDate": "Data programmata",
         "technician": "Tecnico",
         "type": "Tipo di manutenzione",
+        "workOrder": "Ordine di lavoro",
         "workOrders": "Ordini di lavoro"
     }
 }

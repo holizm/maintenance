@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Gemelde storing",
+        "inspection": "Onderhoudsinspectie",
+        "inspections": "Onderhoudsinspecties",
         "instructions": "Instructies",
         "intervalDays": "Interval in dagen",
         "maintenance": "Onderhoud",
+        "material": "Onderhoudsmateriaal",
+        "materials": "Onderhoudsmaterialen",
         "nextServiceDate": "Volgende onderhoudsdatum",
         "plan": "Onderhoudsplan",
         "plans": "Onderhoudsplannen",
         "reportedDate": "Meldingsdatum",
+        "request": "Onderhoudsverzoek",
         "requests": "Onderhoudsverzoeken",
         "scheduledDate": "Geplande datum",
         "technician": "Monteur",
         "type": "Onderhoudstype",
+        "workOrder": "Werkorder",
         "workOrders": "Werkorders"
     }
 }

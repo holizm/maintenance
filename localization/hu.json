@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Bejelentett hiba",
+        "inspection": "Karbantartási ellenőrzés",
+        "inspections": "Karbantartási ellenőrzések",
         "instructions": "Utasítások",
         "intervalDays": "Időköz napokban",
         "maintenance": "Karbantartás",
+        "material": "Karbantartási anyag",
+        "materials": "Karbantartási anyagok",
         "nextServiceDate": "Következő szerviz dátuma",
         "plan": "Karbantartási terv",
         "plans": "Karbantartási tervek",
         "reportedDate": "Bejelentés dátuma",
+        "request": "Karbantartási kérelem",
         "requests": "Karbantartási kérelmek",
         "scheduledDate": "Ütemezett dátum",
         "technician": "Technikus",
         "type": "Karbantartás típusa",
+        "workOrder": "Munkalap",
         "workOrders": "Munkalapok"
     }
 }

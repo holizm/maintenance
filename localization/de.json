@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Gemeldete Störung",
+        "inspection": "Wartungsinspektion",
+        "inspections": "Wartungsinspektionen",
         "instructions": "Anweisungen",
         "intervalDays": "Intervall in Tagen",
         "maintenance": "Instandhaltung",
+        "material": "Wartungsmaterial",
+        "materials": "Wartungsmaterialien",
         "nextServiceDate": "Nächster Wartungstermin",
         "plan": "Wartungsplan",
         "plans": "Wartungspläne",
         "reportedDate": "Meldedatum",
+        "request": "Wartungsanfrage",
         "requests": "Wartungsanfragen",
         "scheduledDate": "Geplanter Termin",
         "technician": "Techniker",
         "type": "Wartungsart",
+        "workOrder": "Arbeitsauftrag",
         "workOrders": "Arbeitsaufträge"
     }
 }

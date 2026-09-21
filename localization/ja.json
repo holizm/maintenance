@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "報告された故障",
+        "inspection": "メンテナンス点検",
+        "inspections": "メンテナンス点検",
         "instructions": "作業指示",
         "intervalDays": "間隔（日数）",
         "maintenance": "保守",
+        "material": "メンテナンス資材",
+        "materials": "メンテナンス資材",
         "nextServiceDate": "次回保守日",
         "plan": "保守計画",
         "plans": "保守計画",
         "reportedDate": "報告日",
+        "request": "メンテナンス依頼",
         "requests": "保守依頼",
         "scheduledDate": "予定日",
         "technician": "技術者",
         "type": "保守の種類",
+        "workOrder": "作業指示",
         "workOrders": "作業指示書"
     }
 }

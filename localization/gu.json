@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "નોંધાયેલ ખામી",
+        "inspection": "જાળવણી નિરીક્ષણ",
+        "inspections": "જાળવણી નિરીક્ષણો",
         "instructions": "સૂચનાઓ",
         "intervalDays": "દિવસોમાં અંતરાલ",
         "maintenance": "જાળવણી",
+        "material": "જાળવણી સામગ્રી",
+        "materials": "જાળવણી સામગ્રીઓ",
         "nextServiceDate": "આગામી સર્વિસ તારીખ",
         "plan": "જાળવણી યોજના",
         "plans": "જાળવણી યોજનાઓ",
         "reportedDate": "નોંધાયાની તારીખ",
+        "request": "જાળવણી વિનંતી",
         "requests": "જાળવણી વિનંતીઓ",
         "scheduledDate": "નિર્ધારિત તારીખ",
         "technician": "ટેક્નિશિયન",
         "type": "જાળવણીનો પ્રકાર",
+        "workOrder": "કાર્ય આદેશ",
         "workOrders": "કાર્ય આદેશો"
     }
 }

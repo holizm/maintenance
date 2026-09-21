@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Kerosakan yang dilaporkan",
+        "inspection": "Pemeriksaan penyelenggaraan",
+        "inspections": "Pemeriksaan penyelenggaraan",
         "instructions": "Arahan",
         "intervalDays": "Selang dalam hari",
         "maintenance": "Penyelenggaraan",
+        "material": "Bahan penyelenggaraan",
+        "materials": "Bahan penyelenggaraan",
         "nextServiceDate": "Tarikh servis seterusnya",
         "plan": "Pelan penyelenggaraan",
         "plans": "Pelan penyelenggaraan",
         "reportedDate": "Tarikh laporan",
+        "request": "Permintaan penyelenggaraan",
         "requests": "Permintaan penyelenggaraan",
         "scheduledDate": "Tarikh dijadualkan",
         "technician": "Juruteknik",
         "type": "Jenis penyelenggaraan",
+        "workOrder": "Arahan kerja",
         "workOrders": "Arahan kerja"
     }
 }

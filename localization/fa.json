@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "خرابی گزارش‌شده",
+        "inspection": "بازرسی نگهداری",
+        "inspections": "بازرسی‌های نگهداری",
         "instructions": "دستورالعمل‌ها",
         "intervalDays": "فاصله به روز",
         "maintenance": "نگهداری و تعمیرات",
+        "material": "ماده مصرفی نگهداری",
+        "materials": "مواد مصرفی نگهداری",
         "nextServiceDate": "تاریخ سرویس بعدی",
         "plan": "برنامه نگهداری",
         "plans": "برنامه‌های نگهداری",
         "reportedDate": "تاریخ گزارش",
+        "request": "درخواست تعمیر",
         "requests": "درخواست‌های تعمیر",
         "scheduledDate": "تاریخ برنامه‌ریزی‌شده",
         "technician": "تکنسین",
         "type": "نوع نگهداری",
+        "workOrder": "دستور کار",
         "workOrders": "دستورهای کار"
     }
 }

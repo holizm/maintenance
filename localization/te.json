@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "నివేదించిన లోపం",
+        "inspection": "నిర్వహణ తనిఖీ",
+        "inspections": "నిర్వహణ తనిఖీలు",
         "instructions": "సూచనలు",
         "intervalDays": "రోజుల్లో విరామం",
         "maintenance": "నిర్వహణ",
+        "material": "నిర్వహణ సామగ్రి",
+        "materials": "నిర్వహణ సామగ్రులు",
         "nextServiceDate": "తదుపరి సర్వీస్ తేదీ",
         "plan": "నిర్వహణ ప్రణాళిక",
         "plans": "నిర్వహణ ప్రణాళికలు",
         "reportedDate": "నివేదించిన తేదీ",
+        "request": "నిర్వహణ అభ్యర్థన",
         "requests": "నిర్వహణ అభ్యర్థనలు",
         "scheduledDate": "షెడ్యూల్ చేసిన తేదీ",
         "technician": "సాంకేతిక నిపుణుడు",
         "type": "నిర్వహణ రకం",
+        "workOrder": "పని ఆదేశం",
         "workOrders": "పని ఆదేశాలు"
     }
 }

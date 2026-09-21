@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "报告的故障",
+        "inspection": "维护检查",
+        "inspections": "维护检查",
         "instructions": "说明",
         "intervalDays": "间隔天数",
         "maintenance": "维护",
+        "material": "维护材料",
+        "materials": "维护材料",
         "nextServiceDate": "下次保养日期",
         "plan": "维护计划",
         "plans": "维护计划",
         "reportedDate": "报告日期",
+        "request": "维护请求",
         "requests": "维护请求",
         "scheduledDate": "计划日期",
         "technician": "技术人员",
         "type": "维护类型",
+        "workOrder": "工单",
         "workOrders": "工单"
     }
 }

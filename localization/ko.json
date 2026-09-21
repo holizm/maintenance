@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "보고된 고장",
+        "inspection": "유지보수 점검",
+        "inspections": "유지보수 점검",
         "instructions": "작업 지침",
         "intervalDays": "간격(일)",
         "maintenance": "유지보수",
+        "material": "유지보수 자재",
+        "materials": "유지보수 자재",
         "nextServiceDate": "다음 정비일",
         "plan": "유지보수 계획",
         "plans": "유지보수 계획",
         "reportedDate": "보고일",
+        "request": "유지보수 요청",
         "requests": "유지보수 요청",
         "scheduledDate": "예정일",
         "technician": "기술자",
         "type": "유지보수 유형",
+        "workOrder": "작업 지시서",
         "workOrders": "작업 지시서"
     }
 }

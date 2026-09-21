@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Bildirilen arıza",
+        "inspection": "Bakım denetimi",
+        "inspections": "Bakım denetimleri",
         "instructions": "Talimatlar",
         "intervalDays": "Gün cinsinden aralık",
         "maintenance": "Bakım",
+        "material": "Bakım malzemesi",
+        "materials": "Bakım malzemeleri",
         "nextServiceDate": "Sonraki servis tarihi",
         "plan": "Bakım planı",
         "plans": "Bakım planları",
         "reportedDate": "Bildirim tarihi",
+        "request": "Bakım talebi",
         "requests": "Bakım talepleri",
         "scheduledDate": "Planlanan tarih",
         "technician": "Teknisyen",
         "type": "Bakım türü",
+        "workOrder": "İş emri",
         "workOrders": "İş emirleri"
     }
 }

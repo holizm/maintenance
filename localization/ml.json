@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "റിപ്പോർട്ട് ചെയ്ത തകരാർ",
+        "inspection": "പരിപാലന പരിശോധന",
+        "inspections": "പരിപാലന പരിശോധനകൾ",
         "instructions": "നിർദ്ദേശങ്ങൾ",
         "intervalDays": "ദിവസങ്ങളിലെ ഇടവേള",
         "maintenance": "പരിപാലനം",
+        "material": "പരിപാലന സാമഗ്രി",
+        "materials": "പരിപാലന സാമഗ്രികൾ",
         "nextServiceDate": "അടുത്ത സർവീസ് തീയതി",
         "plan": "പരിപാലന പദ്ധതി",
         "plans": "പരിപാലന പദ്ധതികൾ",
         "reportedDate": "റിപ്പോർട്ട് ചെയ്ത തീയതി",
+        "request": "പരിപാലന അഭ്യർഥന",
         "requests": "പരിപാലന അഭ്യർത്ഥനകൾ",
         "scheduledDate": "നിശ്ചയിച്ച തീയതി",
         "technician": "സാങ്കേതിക വിദഗ്ധൻ",
         "type": "പരിപാലന തരം",
+        "workOrder": "ജോലി ഉത്തരവ്",
         "workOrders": "ജോലി ഉത്തരവുകൾ"
     }
 }

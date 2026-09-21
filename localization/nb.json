@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Rapportert feil",
+        "inspection": "Vedlikeholdsinspeksjon",
+        "inspections": "Vedlikeholdsinspeksjoner",
         "instructions": "Instruksjoner",
         "intervalDays": "Intervall i dager",
         "maintenance": "Vedlikehold",
+        "material": "Vedlikeholdsmateriale",
+        "materials": "Vedlikeholdsmaterialer",
         "nextServiceDate": "Neste servicedato",
         "plan": "Vedlikeholdsplan",
         "plans": "Vedlikeholdsplaner",
         "reportedDate": "Rapporteringsdato",
+        "request": "Vedlikeholdsforespørsel",
         "requests": "Vedlikeholdsforespørsler",
         "scheduledDate": "Planlagt dato",
         "technician": "Tekniker",
         "type": "Vedlikeholdstype",
+        "workOrder": "Arbeidsordre",
         "workOrders": "Arbeidsordrer"
     }
 }

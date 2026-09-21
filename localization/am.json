@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "ሪፖርት የተደረገ ብልሽት",
+        "inspection": "የጥገና ምርመራ",
+        "inspections": "የጥገና ምርመራዎች",
         "instructions": "መመሪያዎች",
         "intervalDays": "የቀናት ልዩነት",
         "maintenance": "ጥገና",
+        "material": "የጥገና ቁሳቁስ",
+        "materials": "የጥገና ቁሳቁሶች",
         "nextServiceDate": "የሚቀጥለው የጥገና ቀን",
         "plan": "የጥገና ዕቅድ",
         "plans": "የጥገና ዕቅዶች",
         "reportedDate": "ሪፖርት የተደረገበት ቀን",
+        "request": "የጥገና ጥያቄ",
         "requests": "የጥገና ጥያቄዎች",
         "scheduledDate": "የታቀደ ቀን",
         "technician": "ቴክኒሻን",
         "type": "የጥገና ዓይነት",
+        "workOrder": "የሥራ ትዕዛዝ",
         "workOrders": "የሥራ ትዕዛዞች"
     }
 }

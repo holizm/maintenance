@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Rapporterat fel",
+        "inspection": "Underhållsinspektion",
+        "inspections": "Underhållsinspektioner",
         "instructions": "Instruktioner",
         "intervalDays": "Intervall i dagar",
         "maintenance": "Underhåll",
+        "material": "Underhållsmaterial",
+        "materials": "Underhållsmaterial",
         "nextServiceDate": "Nästa servicedatum",
         "plan": "Underhållsplan",
         "plans": "Underhållsplaner",
         "reportedDate": "Rapporteringsdatum",
+        "request": "Underhållsbegäran",
         "requests": "Underhållsbegäranden",
         "scheduledDate": "Schemalagt datum",
         "technician": "Tekniker",
         "type": "Underhållstyp",
+        "workOrder": "Arbetsorder",
         "workOrders": "Arbetsorder"
     }
 }

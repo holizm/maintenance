@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Hitilafu iliyoripotiwa",
+        "inspection": "Ukaguzi wa matengenezo",
+        "inspections": "Ukaguzi wa matengenezo",
         "instructions": "Maelekezo",
         "intervalDays": "Muda kwa siku",
         "maintenance": "Matengenezo",
+        "material": "Nyenzo ya matengenezo",
+        "materials": "Nyenzo za matengenezo",
         "nextServiceDate": "Tarehe ya huduma inayofuata",
         "plan": "Mpango wa matengenezo",
         "plans": "Mipango ya matengenezo",
         "reportedDate": "Tarehe ya kuripoti",
+        "request": "Ombi la matengenezo",
         "requests": "Maombi ya matengenezo",
         "scheduledDate": "Tarehe iliyopangwa",
         "technician": "Fundi",
         "type": "Aina ya matengenezo",
+        "workOrder": "Agizo la kazi",
         "workOrders": "Maagizo ya kazi"
     }
 }

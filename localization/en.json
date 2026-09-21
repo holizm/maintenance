@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Reported fault",
+        "inspection": "Maintenance inspection",
+        "inspections": "Maintenance inspections",
         "instructions": "Instructions",
         "intervalDays": "Interval in days",
         "maintenance": "Maintenance",
+        "material": "Maintenance material",
+        "materials": "Maintenance materials",
         "nextServiceDate": "Next service date",
         "plan": "Maintenance plan",
         "plans": "Maintenance plans",
         "reportedDate": "Reported date",
+        "request": "Maintenance request",
         "requests": "Maintenance requests",
         "scheduledDate": "Scheduled date",
         "technician": "Technician",
         "type": "Maintenance type",
+        "workOrder": "Work order",
         "workOrders": "Work orders"
     }
 }

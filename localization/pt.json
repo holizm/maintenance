@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Avaria comunicada",
+        "inspection": "Inspeção de manutenção",
+        "inspections": "Inspeções de manutenção",
         "instructions": "Instruções",
         "intervalDays": "Intervalo em dias",
         "maintenance": "Manutenção",
+        "material": "Material de manutenção",
+        "materials": "Materiais de manutenção",
         "nextServiceDate": "Próxima data de manutenção",
         "plan": "Plano de manutenção",
         "plans": "Planos de manutenção",
         "reportedDate": "Data da comunicação",
+        "request": "Pedido de manutenção",
         "requests": "Pedidos de manutenção",
         "scheduledDate": "Data agendada",
         "technician": "Técnico",
         "type": "Tipo de manutenção",
+        "workOrder": "Ordem de trabalho",
         "workOrders": "Ordens de trabalho"
     }
 }

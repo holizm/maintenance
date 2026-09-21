@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Prijavljeni kvar",
+        "inspection": "Pregled održavanja",
+        "inspections": "Pregledi održavanja",
         "instructions": "Upute",
         "intervalDays": "Interval u danima",
         "maintenance": "Održavanje",
+        "material": "Materijal za održavanje",
+        "materials": "Materijali za održavanje",
         "nextServiceDate": "Datum sljedećeg servisa",
         "plan": "Plan održavanja",
         "plans": "Planovi održavanja",
         "reportedDate": "Datum prijave",
+        "request": "Zahtjev za održavanje",
         "requests": "Zahtjevi za održavanje",
         "scheduledDate": "Zakazani datum",
         "technician": "Tehničar",
         "type": "Vrsta održavanja",
+        "workOrder": "Radni nalog",
         "workOrders": "Radni nalozi"
     }
 }

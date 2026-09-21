@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Kerusakan yang dilaporkan",
+        "inspection": "Inspeksi pemeliharaan",
+        "inspections": "Inspeksi pemeliharaan",
         "instructions": "Petunjuk",
         "intervalDays": "Interval dalam hari",
         "maintenance": "Pemeliharaan",
+        "material": "Bahan pemeliharaan",
+        "materials": "Bahan pemeliharaan",
         "nextServiceDate": "Tanggal servis berikutnya",
         "plan": "Rencana pemeliharaan",
         "plans": "Rencana pemeliharaan",
         "reportedDate": "Tanggal pelaporan",
+        "request": "Permintaan pemeliharaan",
         "requests": "Permintaan pemeliharaan",
         "scheduledDate": "Tanggal terjadwal",
         "technician": "Teknisi",
         "type": "Jenis pemeliharaan",
+        "workOrder": "Perintah kerja",
         "workOrders": "Perintah kerja"
     }
 }

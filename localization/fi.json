@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Ilmoitettu vika",
+        "inspection": "Huoltotarkastus",
+        "inspections": "Huoltotarkastukset",
         "instructions": "Ohjeet",
         "intervalDays": "Väli päivinä",
         "maintenance": "Kunnossapito",
+        "material": "Huoltomateriaali",
+        "materials": "Huoltomateriaalit",
         "nextServiceDate": "Seuraava huoltopäivä",
         "plan": "Kunnossapitosuunnitelma",
         "plans": "Kunnossapitosuunnitelmat",
         "reportedDate": "Ilmoituspäivä",
+        "request": "Huoltopyyntö",
         "requests": "Huoltopyynnöt",
         "scheduledDate": "Suunniteltu päivä",
         "technician": "Teknikko",
         "type": "Kunnossapidon tyyppi",
+        "workOrder": "Työmääräys",
         "workOrders": "Työmääräykset"
     }
 }

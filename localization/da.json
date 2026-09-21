@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Rapporteret fejl",
+        "inspection": "Vedligeholdelsesinspektion",
+        "inspections": "Vedligeholdelsesinspektioner",
         "instructions": "Instruktioner",
         "intervalDays": "Interval i dage",
         "maintenance": "Vedligeholdelse",
+        "material": "Vedligeholdelsesmateriale",
+        "materials": "Vedligeholdelsesmaterialer",
         "nextServiceDate": "Næste servicedato",
         "plan": "Vedligeholdelsesplan",
         "plans": "Vedligeholdelsesplaner",
         "reportedDate": "Rapporteringsdato",
+        "request": "Vedligeholdelsesanmodning",
         "requests": "Vedligeholdelsesanmodninger",
         "scheduledDate": "Planlagt dato",
         "technician": "Tekniker",
         "type": "Vedligeholdelsestype",
+        "workOrder": "Arbejdsordre",
         "workOrders": "Arbejdsordrer"
     }
 }

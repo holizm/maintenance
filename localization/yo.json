@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Àṣìṣe tí a jábọ̀",
+        "inspection": "Àyẹ̀wò ìtọ́jú",
+        "inspections": "Àwọn àyẹ̀wò ìtọ́jú",
         "instructions": "Àwọn ìtọ́sọ́nà",
         "intervalDays": "Àárín ní ọjọ́",
         "maintenance": "Ìtọju",
+        "material": "Ohun èlò ìtọ́jú",
+        "materials": "Àwọn ohun èlò ìtọ́jú",
         "nextServiceDate": "Ọjọ́ iṣẹ́ àtúnṣe tó kàn",
         "plan": "Ètò ìtọju",
         "plans": "Àwọn ètò ìtọju",
         "reportedDate": "Ọjọ́ ìjábọ̀",
+        "request": "Ìbéèrè ìtọ́jú",
         "requests": "Àwọn ìbéèrè ìtọju",
         "scheduledDate": "Ọjọ́ tí a ṣètò",
         "technician": "Onímọ̀ ẹ̀rọ",
         "type": "Irú ìtọju",
+        "workOrder": "Àṣẹ iṣẹ́",
         "workOrders": "Àwọn àṣẹ iṣẹ́"
     }
 }

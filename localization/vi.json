@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Sự cố đã báo cáo",
+        "inspection": "Kiểm tra bảo trì",
+        "inspections": "Các kiểm tra bảo trì",
         "instructions": "Hướng dẫn",
         "intervalDays": "Khoảng cách theo ngày",
         "maintenance": "Bảo trì",
+        "material": "Vật liệu bảo trì",
+        "materials": "Các vật liệu bảo trì",
         "nextServiceDate": "Ngày bảo dưỡng tiếp theo",
         "plan": "Kế hoạch bảo trì",
         "plans": "Các kế hoạch bảo trì",
         "reportedDate": "Ngày báo cáo",
+        "request": "Yêu cầu bảo trì",
         "requests": "Yêu cầu bảo trì",
         "scheduledDate": "Ngày dự kiến",
         "technician": "Kỹ thuật viên",
         "type": "Loại bảo trì",
+        "workOrder": "Lệnh công việc",
         "workOrders": "Lệnh công việc"
     }
 }

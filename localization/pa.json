@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "ਰਿਪੋਰਟ ਕੀਤੀ ਖਰਾਬੀ",
+        "inspection": "ਰੱਖ-ਰਖਾਅ ਜਾਂਚ",
+        "inspections": "ਰੱਖ-ਰਖਾਅ ਜਾਂਚਾਂ",
         "instructions": "ਹਦਾਇਤਾਂ",
         "intervalDays": "ਦਿਨਾਂ ਵਿੱਚ ਅੰਤਰਾਲ",
         "maintenance": "ਰੱਖ-ਰਖਾਅ",
+        "material": "ਰੱਖ-ਰਖਾਅ ਸਮੱਗਰੀ",
+        "materials": "ਰੱਖ-ਰਖਾਅ ਸਮੱਗਰੀਆਂ",
         "nextServiceDate": "ਅਗਲੀ ਸਰਵਿਸ ਦੀ ਮਿਤੀ",
         "plan": "ਰੱਖ-ਰਖਾਅ ਯੋਜਨਾ",
         "plans": "ਰੱਖ-ਰਖਾਅ ਯੋਜਨਾਵਾਂ",
         "reportedDate": "ਰਿਪੋਰਟ ਦੀ ਮਿਤੀ",
+        "request": "ਰੱਖ-ਰਖਾਅ ਬੇਨਤੀ",
         "requests": "ਰੱਖ-ਰਖਾਅ ਬੇਨਤੀਆਂ",
         "scheduledDate": "ਨਿਰਧਾਰਤ ਮਿਤੀ",
         "technician": "ਤਕਨੀਸ਼ੀਅਨ",
         "type": "ਰੱਖ-ਰਖਾਅ ਦੀ ਕਿਸਮ",
+        "workOrder": "ਕੰਮ ਦਾ ਆਦੇਸ਼",
         "workOrders": "ਕੰਮ ਦੇ ਆਦੇਸ਼"
     }
 }

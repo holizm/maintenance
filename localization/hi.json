@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "रिपोर्ट की गई खराबी",
+        "inspection": "रखरखाव निरीक्षण",
+        "inspections": "रखरखाव निरीक्षण",
         "instructions": "निर्देश",
         "intervalDays": "दिनों में अंतराल",
         "maintenance": "रखरखाव",
+        "material": "रखरखाव सामग्री",
+        "materials": "रखरखाव सामग्रियाँ",
         "nextServiceDate": "अगली सर्विस तिथि",
         "plan": "रखरखाव योजना",
         "plans": "रखरखाव योजनाएँ",
         "reportedDate": "रिपोर्ट की तिथि",
+        "request": "रखरखाव अनुरोध",
         "requests": "रखरखाव अनुरोध",
         "scheduledDate": "निर्धारित तिथि",
         "technician": "तकनीशियन",
         "type": "रखरखाव प्रकार",
+        "workOrder": "कार्य आदेश",
         "workOrders": "कार्य आदेश"
     }
 }

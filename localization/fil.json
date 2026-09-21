@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "Iniulat na sira",
+        "inspection": "Inspeksiyon sa pagpapanatili",
+        "inspections": "Mga inspeksiyon sa pagpapanatili",
         "instructions": "Mga tagubilin",
         "intervalDays": "Agwat sa mga araw",
         "maintenance": "Pagpapanatili",
+        "material": "Materyal sa pagpapanatili",
+        "materials": "Mga materyal sa pagpapanatili",
         "nextServiceDate": "Petsa ng susunod na serbisyo",
         "plan": "Plano ng pagpapanatili",
         "plans": "Mga plano ng pagpapanatili",
         "reportedDate": "Petsa ng pag-uulat",
+        "request": "Kahilingan sa pagpapanatili",
         "requests": "Mga kahilingan sa pagpapanatili",
         "scheduledDate": "Nakatakdang petsa",
         "technician": "Teknisyan",
         "type": "Uri ng pagpapanatili",
+        "workOrder": "Utos sa trabaho",
         "workOrders": "Mga utos sa trabaho"
     }
 }

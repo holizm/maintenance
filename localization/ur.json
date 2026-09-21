@@ -1,17 +1,23 @@
 {
     "common": {
         "fault": "رپورٹ کردہ خرابی",
+        "inspection": "دیکھ بھال کا معائنہ",
+        "inspections": "دیکھ بھال کے معائنے",
         "instructions": "ہدایات",
         "intervalDays": "دنوں میں وقفہ",
         "maintenance": "دیکھ بھال",
+        "material": "دیکھ بھال کا مواد",
+        "materials": "دیکھ بھال کے مواد",
         "nextServiceDate": "اگلی سروس کی تاریخ",
         "plan": "دیکھ بھال کا منصوبہ",
         "plans": "دیکھ بھال کے منصوبے",
         "reportedDate": "رپورٹ کی تاریخ",
+        "request": "دیکھ بھال کی درخواست",
         "requests": "دیکھ بھال کی درخواستیں",
         "scheduledDate": "طے شدہ تاریخ",
         "technician": "ٹیکنیشن",
         "type": "دیکھ بھال کی قسم",
+        "workOrder": "کام کا حکم",
         "workOrders": "کام کے احکامات"
     }
 }
