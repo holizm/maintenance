@@ -3,19 +3,19 @@ export default [
         children: [
             {
                 path: '/maintenance/maintenanceRequest/list',
-                title: 'maintenanceRequests',
+                title: 'requests',
             },
             {
                 path: '/maintenance/maintenancePlan/list',
-                title: 'maintenancePlans',
+                title: 'plans',
             },
             {
                 path: '/maintenance/workOrder/list',
-                title: 'maintenanceWorkOrders',
+                title: 'workOrders',
             },
         ],
         icon: 'build',
         path: '/maintenance',
-        title: 'maintenanceMaintenance',
+        title: 'maintenance',
     },
 ]

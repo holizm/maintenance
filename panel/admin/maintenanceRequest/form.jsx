@@ -8,17 +8,17 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='maintenanceNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='coreAsset'
+        placeholder='asset'
         property='asset'
         required
     />
     <DateTime
-        placeholder='maintenanceReportedDate'
+        placeholder='reportedDate'
         property='reportedDate'
         required
     />
@@ -29,12 +29,12 @@ const inputs = <>
             'high',
             'urgent',
         ]}
-        placeholder='maintenancePriority'
+        placeholder='priority'
         property='maintenancePriority'
         required
     />
     <LongText
-        placeholder='maintenanceFault'
+        placeholder='fault'
         property='fault'
         required
     />

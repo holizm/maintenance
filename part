@@ -46,6 +46,8 @@ workOrder
     downtimeMinutes integer optional
     description optional
     unique number
+    uses
+        stateMachines
 maintenanceInspection
     workOrder
     inspectionDate

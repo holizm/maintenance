@@ -12,7 +12,7 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='coreAsset'
+        placeholder='asset'
         property='asset'
         required
     />
@@ -23,24 +23,24 @@ const inputs = <>
             'predictive',
             'inspection',
         ]}
-        placeholder='maintenanceType'
+        placeholder='type'
         property='maintenanceType'
         required
     />
     <Numeric
-        placeholder='maintenanceIntervalDays'
+        placeholder='intervalDays'
         property='intervalDays'
     />
     <DateTime
-        placeholder='maintenanceNextServiceDate'
+        placeholder='nextServiceDate'
         property='nextServiceDate'
     />
     <LongText
-        placeholder='maintenanceInstructions'
+        placeholder='instructions'
         property='instructions'
     />
     <Boolean
-        placeholder='maintenanceActive'
+        placeholder='active'
         property='active'
     />
 </>

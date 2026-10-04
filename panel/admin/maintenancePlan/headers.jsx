@@ -1,6 +1,6 @@
 export default <>
-    <th start>maintenancePlan</th>
-    <th>coreAsset</th>
-    <th>maintenanceType</th>
-    <th>maintenanceNextServiceDate</th>
+    <th start>plan</th>
+    <th>asset</th>
+    <th>type</th>
+    <th>nextServiceDate</th>
 </>

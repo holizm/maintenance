@@ -1,6 +1,6 @@
 export default <>
-    <th start>maintenanceNumber</th>
-    <th>coreAsset</th>
-    <th>maintenanceScheduledDate</th>
-    <th>stateMachinesState</th>
+    <th start>number</th>
+    <th>asset</th>
+    <th>scheduledDate</th>
+    <th>state</th>
 </>

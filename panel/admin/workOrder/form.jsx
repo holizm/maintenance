@@ -8,12 +8,12 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='maintenanceNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='coreAsset'
+        placeholder='asset'
         property='asset'
         required
     />
@@ -26,20 +26,20 @@ const inputs = <>
             'completed',
             'cancelled',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='workOrderStatus'
         required
     />
     <DateTime
-        placeholder='maintenanceScheduledDate'
+        placeholder='scheduledDate'
         property='scheduledDate'
     />
     <Text
-        placeholder='maintenanceTechnician'
+        placeholder='technician'
         property='technician'
     />
     <LongText
-        placeholder='maintenanceDescription'
+        placeholder='description'
         property='description'
     />
 </>
