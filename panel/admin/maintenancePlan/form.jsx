@@ -12,11 +12,11 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='asset'
-        property='asset'
+        asset
         required
     />
     <Select
+        maintenanceType
         options={[
             'preventive',
             'corrective',
@@ -24,25 +24,12 @@ const inputs = <>
             'inspection',
         ]}
         placeholder='type'
-        property='maintenanceType'
         required
     />
-    <Numeric
-        placeholder='intervalDays'
-        property='intervalDays'
-    />
-    <DateTime
-        placeholder='nextServiceDate'
-        property='nextServiceDate'
-    />
-    <LongText
-        placeholder='instructions'
-        property='instructions'
-    />
-    <Boolean
-        placeholder='active'
-        property='active'
-    />
+    <Numeric intervalDays />
+    <DateTime nextServiceDate />
+    <LongText instructions />
+    <Boolean active />
 </>
 
 export default <DialogForm inputs={inputs} />

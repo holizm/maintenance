@@ -8,21 +8,19 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='number'
-        property='number'
+        number
         required
     />
     <Text
-        placeholder='asset'
-        property='asset'
+        asset
         required
     />
     <DateTime
-        placeholder='reportedDate'
-        property='reportedDate'
+        reportedDate
         required
     />
     <Select
+        maintenancePriority
         options={[
             'low',
             'normal',
@@ -30,12 +28,10 @@ const inputs = <>
             'urgent',
         ]}
         placeholder='priority'
-        property='maintenancePriority'
         required
     />
     <LongText
-        placeholder='fault'
-        property='fault'
+        fault
         required
     />
 </>
