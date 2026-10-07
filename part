@@ -48,7 +48,7 @@ workOrder
     unique number
     uses
         stateMachines
-maintenanceInspection
+maintenanceInspection searchable
     workOrder
     inspectionDate
     inspector
