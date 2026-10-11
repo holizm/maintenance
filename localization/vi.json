@@ -13,11 +13,11 @@
         "plans": "Các kế hoạch bảo trì",
         "reportedDate": "Ngày báo cáo",
         "request": "Yêu cầu bảo trì",
-        "requests": "Yêu cầu bảo trì",
+        "requests": "Các yêu cầu bảo trì",
         "scheduledDate": "Ngày dự kiến",
         "technician": "Kỹ thuật viên",
         "type": "Loại bảo trì",
         "workOrder": "Lệnh công việc",
-        "workOrders": "Lệnh công việc"
+        "workOrders": "Các lệnh công việc"
     }
 }
